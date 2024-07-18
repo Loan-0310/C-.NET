@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Session01\testResetEmployee\bin\Debug\testResetEmployee.exe.config
+C:\Users\Admin\source\repos\Session01\testResetEmployee\bin\Debug\testResetEmployee.exe
+C:\Users\Admin\source\repos\Session01\testResetEmployee\bin\Debug\testResetEmployee.pdb
+C:\Users\Admin\source\repos\Session01\testResetEmployee\obj\Debug\testResetEmployee.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Session01\testResetEmployee\obj\Debug\testResetEmployee.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Session01\testResetEmployee\obj\Debug\testResetEmployee.exe
+C:\Users\Admin\source\repos\Session01\testResetEmployee\obj\Debug\testResetEmployee.pdb
