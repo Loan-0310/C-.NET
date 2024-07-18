@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Session01\NguyenTo\bin\Debug\NguyenTo.exe.config
+C:\Users\Admin\source\repos\Session01\NguyenTo\bin\Debug\NguyenTo.exe
+C:\Users\Admin\source\repos\Session01\NguyenTo\bin\Debug\NguyenTo.pdb
+C:\Users\Admin\source\repos\Session01\NguyenTo\obj\Debug\NguyenTo.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Session01\NguyenTo\obj\Debug\NguyenTo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Session01\NguyenTo\obj\Debug\NguyenTo.exe
+C:\Users\Admin\source\repos\Session01\NguyenTo\obj\Debug\NguyenTo.pdb
