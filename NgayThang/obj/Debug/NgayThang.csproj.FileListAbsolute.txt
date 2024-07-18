@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Session01\NgayThang\bin\Debug\NgayThang.exe.config
+C:\Users\Admin\source\repos\Session01\NgayThang\bin\Debug\NgayThang.exe
+C:\Users\Admin\source\repos\Session01\NgayThang\bin\Debug\NgayThang.pdb
+C:\Users\Admin\source\repos\Session01\NgayThang\obj\Debug\NgayThang.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Session01\NgayThang\obj\Debug\NgayThang.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Session01\NgayThang\obj\Debug\NgayThang.exe
+C:\Users\Admin\source\repos\Session01\NgayThang\obj\Debug\NgayThang.pdb

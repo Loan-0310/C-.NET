@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Session01\PTB2\bin\Debug\PTB2.exe.config
+C:\Users\Admin\source\repos\Session01\PTB2\bin\Debug\PTB2.exe
+C:\Users\Admin\source\repos\Session01\PTB2\bin\Debug\PTB2.pdb
+C:\Users\Admin\source\repos\Session01\PTB2\obj\Debug\PTB2.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Session01\PTB2\obj\Debug\PTB2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Session01\PTB2\obj\Debug\PTB2.exe
+C:\Users\Admin\source\repos\Session01\PTB2\obj\Debug\PTB2.pdb
